@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/layeh/gumble/gumble"
-	"github.com/layeh/gumble/gumbleutil"
-	"github.com/layeh/piepan"
+	"github.com/mpa1212/gumble/gumble"
+	"github.com/mpa1212/gumble/gumbleutil"
+	"github.com/mpa1212/piepan"
 	"github.com/robertkrimen/otto"
 )
 
